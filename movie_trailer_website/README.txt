@@ -1,5 +1,7 @@
 
---- Movie trailer website - Project 1 of Udacity Nanodegree Full-Stack Webdeveloper ---
+--- Movie trailer website ---
+--- Project 1 of Udacity Nanodegree Full-Stack Webdeveloper ---
+
 
 This project contains the scripts and resources to generate an html-file
 which on display in a web browser presents my favourite movies.
@@ -15,8 +17,11 @@ git-project.
 -- How to generate and display the movie webpage
 
 Run the "entertainment_center.py" python script with a python interpreter
-(or a python development environment like IDLE).
+- by typing "python entertainment_center.py" from the command line OR
+- by executing it in a python development environment like IDLE.
+
 The modules "media.py" and "fresh_tomates.py" must be accessible.
+
 The "fresh_tomatoes.html"-file should be generated and displayed in the
 standard web browser.
 
